@@ -12,22 +12,28 @@ Supports:
 - 2D Texture sampler
 
 ![](output/render11.png)
+
 17 century silver teapot from China. 清雍正銀提梁壺
 (modelled to be a slightly more interesting alternative to the canonical teapot [[.obj](models/silverpot.obj)]).
 
 ![](output/render10.png)
+
 Another setup
 
 ![](output/render4.png)
+
 Stanford dragon in a cronell box with glass ball.
 
 ![](output/render8.png)
+
 Lucy in Pisa.
 
 ![](output/render3.png)
+
 The canonical teapot in cornell box.
 
 ![](output/render7.png)
+
 Jade dragon with subsurface scattering.
 
 <sub>I lost most my renderings after a computer disaster, will render some more soon :P</sub>
