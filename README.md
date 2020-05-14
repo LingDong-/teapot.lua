@@ -1,6 +1,6 @@
 # teapot.lua
 
-1 ray tracer written in pure lua, 1 file, 0 dependencies.
+1 path tracer written in pure lua, 1 file, 0 dependencies.
 
 Made after taking [Computer Graphics (15462)](https://github.com/cmu462/Scotty3D) in 2019 at [CMU](https://www.cmu.edu/) and feeling not having had enough.
 
